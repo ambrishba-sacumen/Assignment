@@ -13,5 +13,6 @@ for(Object o:ai)
 {
     System.out.println(o);
 }
+System.out.println("merging");
     }
 }
